@@ -1,6 +1,6 @@
-# Teacup::Rails
-
 ![teacup](https://raw.github.com/goodeggs/teacup/master/docs/teacup.jpg)
+
+# Teacup::Rails
 
 Teacup::Rails makes [Teacup](http://goodeggs.github.com/teacup) native CoffeeScript templates
 available to the Rails asset pipeline.
