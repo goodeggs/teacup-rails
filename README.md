@@ -1,4 +1,4 @@
-# Teacup::Rails
+# TeacupRails
 
 TODO: Write a gem description
 
