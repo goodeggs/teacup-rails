@@ -59,7 +59,7 @@ class IndexView extends Backbone.View
     @
 ```
 
-See [Teacup](http://goodeggs.github.com/teacup) for more usage examples.
+See [Teacup Examples](http://goodeggs.github.com/teacup/#examples) for more usage examples.
 
 ## Contributing
 
