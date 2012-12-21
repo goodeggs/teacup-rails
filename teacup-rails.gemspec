@@ -8,9 +8,9 @@ Gem::Specification.new do |gem|
   gem.version       = Teacup::Rails::VERSION
   gem.authors       = ["Alon Salant"]
   gem.email         = ["alon@salant.org"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
-  gem.homepage      = ""
+  gem.description   = %q{Makes Teacup templates written in native CoffeeScript available to Rails asset pipeline.}
+  gem.summary       = %q{Use Teacup templates in Rails.}
+  gem.homepage      = "http://github.com/asalant/teacup-rails"
 
   gem.add_dependency('railties', '>= 3.1.0')
   gem.add_dependency('coffee-script', '~> 2.2.0')
